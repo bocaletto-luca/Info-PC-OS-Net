@@ -21,7 +21,6 @@ Info PC/OS/NET is a Python application that gathers and displays information abo
 - Python 3.x
 - Library
 
-
 ## Usage
 - Launch the application, and it will display comprehensive information about your computer, operating system, and network.
 - The information is presented in an easy-to-read format, and you can use the graphical user interface to interact with the data.
@@ -45,10 +44,7 @@ Feel free to expand this `readme.md` with more information, including a more det
 ## Descrizione
 Info PC/OS/NET è un'applicazione Python che raccoglie e visualizza informazioni sul tuo computer, sistema operativo e rete. Fornisce dettagli sul tuo hardware, software e configurazione di rete in un'interfaccia grafica amichevole.
 
-## Autore
-- **Luca Bocaletto**
-- **Sito Web:** [https://www.elektronoide.it](https://www.elektronoide.it)
-- **Licenza:** GPLv3
+# Italiano
 
 ## Caratteristiche
 - Visualizza informazioni dettagliate sul tuo computer, inclusi CPU, GPU, RAM e disco rigido.
