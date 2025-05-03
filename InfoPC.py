@@ -1,6 +1,5 @@
 # Software Name: Info PC/OS/Net
 # Author: Luca Bocaletto
-# Website: https://www.elektronoide.it
 # License: GPLv3
 
 import tkinter as tk
