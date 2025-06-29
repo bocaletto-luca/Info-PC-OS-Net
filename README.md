@@ -37,3 +37,11 @@ Contributions are welcome! If you have any ideas or want to improve this project
 - Thanks to the authors of the libraries and tools used in this project.
 
 Feel free to expand this `readme.md` with more information, including a more detailed description, usage instructions, or any additional features or guidelines for contributing to your project.
+
+---
+
+**Maintainer Update**
+
+All legacy projects from the old `@Elektronoide` GitHub account are now officially maintained by **@bocaletto-luca**. Please direct any issues, pull requests, and stars to **@bocaletto-luca** for all future updates.
+
+---
